@@ -33,7 +33,7 @@ path = "src/bin/client.rs"
 
 [dependencies]
 aes = {version = "0.7.5"}
-rsa = {version = "0.5.0"}
+rsa = {version = "0.7.2"}
 rand = "0.8.4"
 block-modes = "0.8.1"
 hex-literal = "0.3.4"
